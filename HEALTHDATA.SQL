@@ -292,5 +292,13 @@ INSERT INTO PharmacyPersonel
 		   ('EMP08', 'AB-099', '2017-02-16', 93, 'Junior');
 GO
 
-
+SELECT * FROM Patient;
+SELECT * FROM Doctor;
+SELECT * FROM Disease;
+SELECT * FROM Prescription;
+SELECT * FROM PharmacyPersonel;
+SELECT * FROM Employee;
+SELECT * FROM Medicine;
+SELECT * FROM MedicinePrescribed;
+SELECT * FROM Diagnosis;
 
